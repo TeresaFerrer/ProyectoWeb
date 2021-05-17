@@ -1,0 +1,23 @@
+  body{
+    text-align: center;
+  }
+
+  h1{
+    font-family: Helvetica;
+    color: rgb(100, 100, 97);
+    
+  }
+ 
+  a{
+    font-family: Helvetica;
+    color: rgb(100, 100, 97);
+    font-size: 30px;
+    border: solid;
+  }
+
+
+.yo{
+  border-radius: 50%;
+  border-style: none;
+  border: 5px solid rgb(247, 228, 188);
+}
